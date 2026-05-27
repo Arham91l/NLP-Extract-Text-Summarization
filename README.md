@@ -45,4 +45,4 @@ text_summarizer_app/
 4. Deploy!
 
 ## App link
-https://nlp-extract-text-summarization-ihqy9qsf5dicjiiwmclmet.streamlit.app/
+https://nlp-extract-text-summarization-ayj2uxiwqb96zhhxicw7hk.streamlit.app/
