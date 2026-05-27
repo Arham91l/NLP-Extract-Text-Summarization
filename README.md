@@ -43,3 +43,6 @@ text_summarizer_app/
 2. Go to https://share.streamlit.io
 3. Connect your repo → select `app.py`
 4. Deploy!
+
+## App link
+https://nlp-extract-text-summarization-ihqy9qsf5dicjiiwmclmet.streamlit.app/
