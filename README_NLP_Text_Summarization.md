@@ -201,7 +201,7 @@ The dashboard will open at `http://localhost:8501`
 
 ## 🚀 Live Demo
 
-> 🔗 **[Streamlit Cloud Deployment — Click Here](https://YOUR_APP_URL.streamlit.app)**
+> 🔗 https://nlp-extract-text-summarization-ayj2uxiwqb96zhhxicw7hk.streamlit.app/
 
 The live demo is deployed on **Streamlit Community Cloud** and supports:
 - Custom article input (paste any text)
@@ -271,17 +271,7 @@ nlp-text-summarization/
 ## 👤 Author
 
 **Arham**
-- 📧 [your.email@example.com]
-- 💼 [LinkedIn Profile]
-- 🐙 [GitHub Profile]
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 ⭐ Star this repo if you found it useful!
