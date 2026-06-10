@@ -129,13 +129,9 @@ A length-aware extractive approach that prioritizes **positional heuristics** (l
 
 ### Screenshots
 
-> 📸 _Add screenshots of your Streamlit dashboard here_
->
-> Suggested: `docs/screenshots/dashboard_main.png`, `docs/screenshots/comparison_view.png`
 
-```
-![Dashboard Main View](docs/screenshots/dashboard_main.png)
-![Comparison View](docs/screenshots/comparison_view.png)
+![Dashboard Main View](images/nlp4.png)
+![Comparison View](images/nlp3.png)
 ```
 
 ---
