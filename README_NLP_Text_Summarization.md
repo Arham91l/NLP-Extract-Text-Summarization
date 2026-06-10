@@ -232,10 +232,6 @@ nlp-text-summarization/
 │   ├── 02_TF-IDF_Experiments.ipynb # TF-IDF method development
 │   └── 03_Evaluation.ipynb         # ROUGE evaluation across methods
 │
-├── docs/
-│   └── screenshots/                # Dashboard screenshots
-│       ├── dashboard_main.png
-│       └── comparison_view.png
 │
 └── .streamlit/
     └── config.toml                 # Dark theme configuration
