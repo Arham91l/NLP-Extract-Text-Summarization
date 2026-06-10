@@ -131,6 +131,8 @@ A length-aware extractive approach that prioritizes **positional heuristics** (l
 
 
 ![Dashboard Main View](images/nlp4.png)
+images/nlp1.png
+images/nlp2.png
 ![Comparison View](images/nlp3.png)
 ```
 
