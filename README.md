@@ -208,36 +208,6 @@ The live demo is deployed on **Streamlit Community Cloud** and supports:
 
 ---
 
-## 📁 Repository Structure
-
-```
-nlp-text-summarization/
-│
-├── app.py                          # Main Streamlit application
-├── requirements.txt                # Python dependencies
-├── README.md                       # Project documentation
-│
-├── src/
-│   ├── summarizer_tfidf.py         # TF-IDF extractive summarization
-│   ├── summarizer_compression.py   # Compression ratio summarization
-│   ├── evaluator.py                # ROUGE scoring utilities
-│   └── preprocessor.py             # Text cleaning & tokenization
-│
-├── data/
-│   ├── sample_articles.json        # Sample CNN/DailyMail articles for demo
-│   └── README.md                   # Dataset sourcing instructions
-│
-├── notebooks/
-│   ├── 01_EDA.ipynb                # Exploratory data analysis
-│   ├── 02_TF-IDF_Experiments.ipynb # TF-IDF method development
-│   └── 03_Evaluation.ipynb         # ROUGE evaluation across methods
-│
-│
-└── .streamlit/
-    └── config.toml                 # Dark theme configuration
-```
-
----
 
 ## 🛠️ Tech Stack
 
